@@ -1,6 +1,6 @@
 {
     "name": "@zill057/tiny",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": "zill057/tiny",
